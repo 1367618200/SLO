@@ -1,0 +1,21 @@
+{
+  "metainfo": {
+    "classes": [
+      "non",
+      "early",
+      "mid_advanced"
+    ]
+  },
+  "data_list": [
+    {
+      "img_path": "0001/0001.jpg",
+      "oct_img_path": "0001/0001",
+      "gt_label": 0
+    },
+    {
+      "img_path": "0002/0002.jpg",
+      "oct_img_path": "0002/0002",
+      "gt_label": 1
+    }
+  ]
+}
